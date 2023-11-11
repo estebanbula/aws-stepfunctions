@@ -1,0 +1,16 @@
+{
+  "event": {
+    "records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "flavio-demo01"
+          },
+          "file": {
+            "key": "test-files/test.json"
+          }
+        }
+      }
+    ]
+  }
+}
